@@ -1,6 +1,6 @@
 
 const os = require('os');
-
+console.log(os);
 
 
 function obtenerDatosSistema() {

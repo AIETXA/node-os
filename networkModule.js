@@ -13,3 +13,4 @@ function obtenerDatosRed() {
     return resultado;
 }
 module.exports = { obtenerDatosRed};
+console.log(obtenerDatosRed());
